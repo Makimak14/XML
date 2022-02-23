@@ -1,2 +1,7 @@
-work
-dont work
+<bag_report>
+  <name>The Close button in the Customer form is not active</name>
+  <steps>Open the Main form, Click the New button</steps>
+  <severity>trivial</severity>
+  <expected_result>The Customer Form Is Closed</expected_result>
+  <actual_result>The close button is not active</actual_result>
+</bag_report>
